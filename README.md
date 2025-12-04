@@ -5,7 +5,7 @@ This Roblox TypeScript (TS) template integrates popular frameworks and utilities
 The goal of this project is to be able to quickly launch into creating your next project, without having to set the same things up again. I also intend on new Roblox TS users to be able to use and learn from this project as well, by being able to see how common systems are implemented.
 
 - Inspired by ReturnedTrue's [Template](https://github.com/ReturnedTrue/RobloxTSTemplate).
-- Lots of code was taken from or inspired by the king [Littensy](https://github.com/littensy).
+- Lots of code was taken from or inspired by the king [Littensy](https://github.com/littensy)..
 
 ## Instructions 🛠️
 
