@@ -72,6 +72,6 @@ It simply requires the [io-serve](https://www.npmjs.com/package/io-serve) packag
 You can find the full guide [here](https://roblox-ts.com/docs/guides/indexing-children#rbxts-object-to-tree-plugin-by-validark).
 
 ## Contact
-- [Twitter](https://x.com/blacksky_jose)
-- [Telegram](https://t.me/blacksky_jose)
-- [Discord](https://discord.gg/blacksky_jose)
+- [Twitter](https://x.com/gamedevcarron)
+- [Telegram](https://t.me/gamedevcarron)
+- [Discord](https://discord.gg/gamedevcarron)
